@@ -13,7 +13,7 @@ public:
             while(path[i]!='/' && i<path.size())
             {
                 copy+=path[i];
-                ++i;
+                i++;
             }
             if(copy==".")
             {
