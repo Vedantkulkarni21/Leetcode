@@ -3,7 +3,7 @@ public:
     string simplifyPath(string path) {
         stack<string>sta;
         int i=0;
-        for(int i=0;i<path.size();i++)
+        for(int i=0;i<path.size();++i)
         {
             if(path[i]=='/')
             {
@@ -13,7 +13,7 @@ public:
             while(path[i]!='/' && i<path.size())
             {
                 copy+=path[i];
-                i++;
+                ++i;
             }
             if(copy==".")
             {
