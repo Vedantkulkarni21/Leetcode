@@ -1,17 +1,16 @@
 class Solution {
 public:
     int evalRPN(vector<string>& tokens) {
-        stack<string>sta1;
-
-        int ans,i=0;
+        stack<int>sta1;
+        int i=0;
         while(i<tokens.size())
         {
             if(tokens[i]=="*" || tokens[i]=="/" || tokens[i]=="+" || tokens[i]=="-")
             {
                 int temp=0;
-                int left=stoi(sta1.top()); 
+                int left=sta1.top(); 
                 sta1.pop();
-                int right=stoi(sta1.top());
+                int right=sta1.top();
                 sta1.pop();
 
                 if(tokens[i]=="*")
@@ -29,16 +28,14 @@ public:
                 else{
                     temp=right-left;
                 }
-                sta1.push(to_string(temp));
+                sta1.push(temp);
             }
             else
             {
-                sta1.push(tokens[i]);
+                sta1.push(stoi(tokens[i]));
             }
             i++;
         }
-        
-        ans=stoi(sta1.top());
-        return ans;
+        return sta1.top();
     }
 };
