@@ -5,6 +5,7 @@ public:
         map<string,char>mpp2;
         string st="";
         vector<string>ans;
+        //create vector of string using s
         for(char ch:s)
         {
             if(ch==' ')
@@ -17,19 +18,22 @@ public:
                 st+=ch;
             }
         }
-        ans.push_back(st);
+        ans.push_back(st); //remained last element
         
+        //size boundry condition
         if(ans.size()!=pattern.size())
         {
             return false;
         }
 
+        //assign ids and values to maps
         for(int i=0;i<pattern.size();i++)
         {
             mpp1[pattern[i]]=ans[i];
             mpp2[ans[i]]=pattern[i];
         }
 
+        //check the last condition
         for(int i=0;i<pattern.size();i++)
         {
             if(mpp2[ans[i]] != pattern[i] || mpp1[pattern[i]] != ans[i])
@@ -37,24 +41,6 @@ public:
                 return false;
             }
         }
-        // for(char ch:pattern)
-        // {
-        //     mpp[ch]="";
-        // }
-
-        // int count=0;
-        // for(auto it:mpp)
-        // {
-        //     if(it.second=="" || it.second==ans[count])
-        //     {
-        //         it.second=ans[count++];
-        //     }
-        //     else if(it.second!=ans[count])
-        //     {
-        //         return false;
-        //     }
-        // }
-
         return true;
     }
 };
