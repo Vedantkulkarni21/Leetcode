@@ -1,38 +1,38 @@
 class Solution {
 public:
-    
-    void add_elem(unordered_map<char,int> &m , string temp,int x){
-        for (int i=0; i< temp.length();i++)
-            m[temp[i]] = x;
-        
-    }
     vector<string> findWords(vector<string>& words) {
-        string temp1 = "qwertyuiopQWERTYUIOP";
-        string temp2 = "asdfghjklASDFGHJKL";
-        string temp3 = "zxcvbnmZXCVBNM";
-        
-        unordered_map<char,int> m;
-        
-        add_elem(m,temp1,0);
-        add_elem(m,temp2,1);
-        add_elem(m,temp3,2);
-        
-        bool visited;
-        vector<string> sol;
-        
-        for (string &word : words){
-            visited = true;
-            for (int i = 1; i < word.size();i++){
-                if (m[word[i]] != m[word[0]]){
-                    visited = false;
+        unordered_set<char> set1 {'q', 'w','e','r','t','y','u','i','o','p'};
+        unordered_set<char> set2 {'a', 's','d','f','g','h','j','k','l'};
+        unordered_set<char> set3 {'z', 'x','c','v','b','n','m'};
+
+        vector<string>res;
+
+        for(string word:words)
+        {
+            bool flag = true;
+            unordered_set<char>setTemp;
+
+            if(set1.find(tolower(word[0])) != set1.end())
+                setTemp = set1;
+            else if(set2.find(tolower(word[0])) != set2.end())
+                setTemp = set2;
+            else
+                setTemp = set3;
+            
+            for(char ch:word)
+            {
+                if(setTemp.find(tolower(ch)) == setTemp.end())
+                {
+                    flag = false;
                     break;
                 }
             }
-            if (visited)
-                sol.push_back(word);
+            if(flag)
+            {
+                res.push_back(word);
+            }
         }
-        return sol;
-        
-        
+        return res;
+
     }
 };
