@@ -16,3 +16,19 @@ Solved Leetcode problems.
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0344-reverse-string) |
+# Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+# Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+# Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+# Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
