@@ -13,11 +13,28 @@ class Solution {
 public:
     
     int minDepth(TreeNode* root) {
-        if(root==NULL) return 0;
-        int lh=minDepth(root->left);
-        int rh=minDepth(root->right);
-        if(lh==0) return 1+rh; //lh=0 means there is no left subtree,so we cannot compare its height to right subtree
-        else if(rh==0) return 1+lh; //rh=0 means there is no right subtree
-        else return 1+ min(lh,rh);
+        if(root == NULL) return 0;
+        queue<TreeNode*>q;
+        q.push(root);
+        int count=1;
+
+        while(!q.empty())
+        {
+            int size = q.size();
+            for(int i=0;i<size;i++)
+            {
+                TreeNode *node = q.front();
+                if(node->left != NULL)
+                    q.push(node->left);
+                if(node->right != NULL)
+                    q.push(node->right);
+                q.pop();
+                if(node->left == NULL && node->right == NULL) 
+                    return count;
+            }
+            
+            count++;
+        }
+        return -1;
     }
 };
