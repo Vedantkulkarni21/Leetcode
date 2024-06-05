@@ -7,12 +7,14 @@ Solved Leetcode problems.
 | ------- |
 | [0344-reverse-string](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0409-longest-palindrome) |
+| [1044-find-common-characters](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1044-find-common-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3379-score-of-a-string](https://github.com/Vedantkulkarni21/Leetcode/tree/master/3379-score-of-a-string) |
 # Hash Table
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0409-longest-palindrome) |
+| [1044-find-common-characters](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1044-find-common-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 # Two Pointers
 |  |
@@ -52,3 +54,7 @@ Solved Leetcode problems.
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0409-longest-palindrome) |
+# Array
+|  |
+| ------- |
+| [1044-find-common-characters](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1044-find-common-characters) |
