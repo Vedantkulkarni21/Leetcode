@@ -14,6 +14,7 @@ Solved Leetcode problems.
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0409-longest-palindrome) |
+| [0876-hand-of-straights](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1044-find-common-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 # Two Pointers
@@ -54,7 +55,13 @@ Solved Leetcode problems.
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0409-longest-palindrome) |
+| [0876-hand-of-straights](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0876-hand-of-straights) |
 # Array
 |  |
 | ------- |
+| [0876-hand-of-straights](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1044-find-common-characters) |
+# Sorting
+|  |
+| ------- |
+| [0876-hand-of-straights](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0876-hand-of-straights) |
