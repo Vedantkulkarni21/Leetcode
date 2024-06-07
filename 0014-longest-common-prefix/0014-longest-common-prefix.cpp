@@ -12,6 +12,7 @@ public:
             str=strs[i];
         }
     }
+    string ans="";
     vector<string>arr;
     for(int j=0;j<min;j++)
     {
@@ -20,12 +21,13 @@ public:
             
             if(str[j]!=strs[k][j])
             {
-                return str.substr(0,count);
+                return ans;
             }
         }
-        count++;
+        ans+=str[j];
+        
     }
-        return str.substr(0,count);
+        return ans;
    
     }
 };
