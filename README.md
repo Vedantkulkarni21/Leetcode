@@ -83,6 +83,7 @@ Solved Leetcode problems.
 | [0007-reverse-integer](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0009-palindrome-number) |
 | [0523-continuous-subarray-sum](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [1013-fibonacci-number](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1013-fibonacci-number) |
 # Prefix Sum
 |  |
 | ------- |
@@ -91,3 +92,15 @@ Solved Leetcode problems.
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1217-relative-sort-array) |
+# Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1013-fibonacci-number) |
+# Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1013-fibonacci-number) |
+# Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1013-fibonacci-number) |
