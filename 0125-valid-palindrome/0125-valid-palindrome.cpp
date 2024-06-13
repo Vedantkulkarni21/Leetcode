@@ -1,16 +1,28 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-        string ans,temp;
-        for(int i=0;i<s.size();i++)
+        //if(s.size() == 1 && s[i])
+        int l=0,r=s.size()-1;
+        while(l<r)
         {
-            if( isdigit(s[i]) )
-                temp+=s[i];   
-            else if( isalpha(s[i]) )
-                temp+=tolower(s[i]);
+            while(l<r && !isalpha(s[l]) && !isdigit(s[l]))
+            {
+                l++;
+                continue;
+            }
+            while(l<r && !isalpha(s[r]) && !isdigit(s[r]))
+            {
+                r--;
+                continue;
+            }
+            if(tolower(s[l])!=tolower(s[r]))
+                return false;
+            else
+            {
+                l++;
+                r--;
+            }
         }
-        ans = temp;
-        reverse(temp.begin(),temp.end());
-        return (temp == ans);
+        return true;
     }
 };
