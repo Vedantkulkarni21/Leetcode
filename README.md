@@ -6,6 +6,7 @@ Solved Leetcode problems.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0409-longest-palindrome) |
 | [1044-find-common-characters](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1044-find-common-characters) |
@@ -23,6 +24,7 @@ Solved Leetcode problems.
 # Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0344-reverse-string) |
 # Stack
 |  |
