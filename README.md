@@ -15,6 +15,7 @@ Solved Leetcode problems.
 # Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0409-longest-palindrome) |
 | [0523-continuous-subarray-sum](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0876-hand-of-straights](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0876-hand-of-straights) |
@@ -64,6 +65,7 @@ Solved Leetcode problems.
 # Array
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0523-continuous-subarray-sum](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0876-hand-of-straights](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1044-find-common-characters) |
@@ -71,6 +73,7 @@ Solved Leetcode problems.
 # Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0876-hand-of-straights](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0876-hand-of-straights) |
 | [1217-relative-sort-array](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1217-relative-sort-array) |
 # Trie
@@ -91,6 +94,7 @@ Solved Leetcode problems.
 # Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1217-relative-sort-array](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1217-relative-sort-array) |
 # Dynamic Programming
 |  |
@@ -104,3 +108,19 @@ Solved Leetcode problems.
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1013-fibonacci-number) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0347-top-k-frequent-elements) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0347-top-k-frequent-elements) |
+# Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0347-top-k-frequent-elements) |
+# Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0347-top-k-frequent-elements) |
