@@ -79,6 +79,7 @@ Solved Leetcode problems.
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0009-palindrome-number) |
 | [0523-continuous-subarray-sum](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0523-continuous-subarray-sum) |
 # Prefix Sum
 |  |
