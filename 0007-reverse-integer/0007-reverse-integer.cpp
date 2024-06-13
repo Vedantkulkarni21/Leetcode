@@ -1,18 +1,18 @@
 class Solution {
 public:
     int reverse(int x) {
-        int sum=0;
-        int rem=0;
+        int rhs=0,ans=0;
+        cout<<x%10<<endl;
+        cout<<INT_MAX;
         while(x!=0)
         {
-            rem=x%10;
-            if((sum>INT_MAX/10) || (sum<INT_MIN/10))
-            {
+            if(ans > INT_MAX/10 || ans < INT_MIN/10)
                 return 0;
-            }
-            sum=sum*10+rem;
+            rhs = x%10;
+            ans = (ans*10)+rhs;
             x=x/10;
         }
-        return sum;
+
+        return ans;
     }
 };
