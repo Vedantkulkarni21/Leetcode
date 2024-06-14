@@ -70,6 +70,7 @@ Solved Leetcode problems.
 | [0876-hand-of-straights](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1217-relative-sort-array) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 # Sorting
 |  |
 | ------- |
