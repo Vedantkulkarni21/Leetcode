@@ -27,6 +27,7 @@ Solved Leetcode problems.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0344-reverse-string) |
 # Stack
 |  |
@@ -67,6 +68,7 @@ Solved Leetcode problems.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0189-rotate-array) |
 | [0347-top-k-frequent-elements](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0523-continuous-subarray-sum](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0876-hand-of-straights](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0876-hand-of-straights) |
@@ -88,6 +90,7 @@ Solved Leetcode problems.
 | ------- |
 | [0007-reverse-integer](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1013-fibonacci-number](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1013-fibonacci-number) |
 # Prefix Sum
