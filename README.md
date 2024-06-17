@@ -28,6 +28,7 @@ Solved Leetcode problems.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0344-reverse-string) |
 # Stack
 |  |
@@ -69,6 +70,7 @@ Solved Leetcode problems.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0523-continuous-subarray-sum](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0876-hand-of-straights](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0876-hand-of-straights) |
