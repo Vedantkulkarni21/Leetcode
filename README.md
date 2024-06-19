@@ -74,6 +74,7 @@ Solved Leetcode problems.
 | [0268-missing-number](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0485-max-consecutive-ones](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0876-hand-of-straights](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1044-find-common-characters) |
