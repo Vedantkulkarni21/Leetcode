@@ -15,6 +15,7 @@ Solved Leetcode problems.
 # Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0409-longest-palindrome) |
@@ -69,6 +70,7 @@ Solved Leetcode problems.
 # Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0189-rotate-array) |
