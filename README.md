@@ -174,4 +174,8 @@ Solved Leetcode problems.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
