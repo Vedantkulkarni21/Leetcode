@@ -157,10 +157,12 @@ Solved Leetcode problems.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
