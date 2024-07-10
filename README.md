@@ -159,6 +159,7 @@ Solved Leetcode problems.
 | ------- |
 | [0001-two-sum](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -195,4 +196,5 @@ Solved Leetcode problems.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
