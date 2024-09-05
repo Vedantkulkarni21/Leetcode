@@ -193,6 +193,7 @@ Solved Leetcode problems.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0394-decode-string](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0394-decode-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2470-removing-stars-from-a-string](https://github.com/Vedantkulkarni21/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -212,11 +213,13 @@ Solved Leetcode problems.
 | ------- |
 | [0735-asteroid-collision](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0735-asteroid-collision) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vedantkulkarni21/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2470-removing-stars-from-a-string](https://github.com/Vedantkulkarni21/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Stack
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0735-asteroid-collision) |
+| [2470-removing-stars-from-a-string](https://github.com/Vedantkulkarni21/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Recursion
 |  |
 | ------- |
