@@ -13,13 +13,13 @@ public:
                 sta.push(s[i]);
             }
         }
-        string str="";
+        s = "";
         while(!sta.empty())
         {
-            str+=sta.top();
+            s+=sta.top();
             sta.pop();
         }
-        reverse(str.begin(),str.end());
-        return str;
+        reverse(s.begin(),s.end());
+        return s;
     }
 };
