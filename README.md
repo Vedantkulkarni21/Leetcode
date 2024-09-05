@@ -163,6 +163,7 @@ Solved Leetcode problems.
 | [0169-majority-element](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0169-majority-element) |
 | [0735-asteroid-collision](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0735-asteroid-collision) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vedantkulkarni21/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2428-equal-row-and-column-pairs](https://github.com/Vedantkulkarni21/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -170,6 +171,7 @@ Solved Leetcode problems.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0169-majority-element) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2428-equal-row-and-column-pairs](https://github.com/Vedantkulkarni21/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -213,6 +215,7 @@ Solved Leetcode problems.
 | ------- |
 | [0735-asteroid-collision](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0735-asteroid-collision) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vedantkulkarni21/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2428-equal-row-and-column-pairs](https://github.com/Vedantkulkarni21/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/Vedantkulkarni21/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Stack
 |  |
@@ -236,4 +239,8 @@ Solved Leetcode problems.
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0969-number-of-recent-calls) |
+## Matrix
+|  |
+| ------- |
+| [2428-equal-row-and-column-pairs](https://github.com/Vedantkulkarni21/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->
