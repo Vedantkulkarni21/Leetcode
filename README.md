@@ -163,6 +163,7 @@ Solved Leetcode problems.
 | [0169-majority-element](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0735-asteroid-collision](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0735-asteroid-collision) |
+| [1046-max-consecutive-ones-iii](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Vedantkulkarni21/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vedantkulkarni21/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -210,6 +211,7 @@ Solved Leetcode problems.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1046-max-consecutive-ones-iii](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Dynamic Programming
 |  |
@@ -265,4 +267,9 @@ Solved Leetcode problems.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [1046-max-consecutive-ones-iii](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+## Binary Search
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
