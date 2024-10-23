@@ -195,6 +195,7 @@ Solved Leetcode problems.
 | [0007-reverse-integer](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0007-reverse-integer) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Vedantkulkarni21/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2238-a-number-after-a-double-reversal](https://github.com/Vedantkulkarni21/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2491-smallest-even-multiple](https://github.com/Vedantkulkarni21/Leetcode/tree/master/2491-smallest-even-multiple) |
 ## String
 |  |
