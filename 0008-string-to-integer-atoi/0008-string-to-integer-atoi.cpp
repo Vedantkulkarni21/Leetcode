@@ -1,58 +1,33 @@
 class Solution {
 public:
     int myAtoi(string s) {
-        int i=0, sign=1,add=0,sub=0;
-        long num=0;
-        //skip the white spces
-        while(s[i]==' ')
+        int flag=1,num=0,i=0;
+        while(i<s.size())
         {
-            if(s[i]!=' ')
-            {break;}
-            i++;
-        }
-        //count the + and - in string
-        while(s[i]=='+' || s[i]=='-')
-        {
-            if(s[i]=='+')
+            while(i<s.size() && s[i] == ' ')
             {
-                add++;
+                i++;
             }
-            if(s[i]=='-')
+            if(s[i] == '-')
             {
-                sub++;
+                flag = -1;
+                i++;
             }
-            i++;
-        }
-        //check if count of +/- is more than 1 then answer is zero
-        if((add+sub)>1)
-        {
-            sign=0;
-        }
-        else if(sub==1)
-        {
-            sign=-1;
-        }
-
-        
-        int maxi=INT_MAX;
-        int mini=INT_MIN;
-        while(isdigit(s[i]))
-        {
-            num=num*10+(s[i]-'0');
-            if(num*sign>INT_MAX)
+            else if(s[i]== '+')
             {
-                return maxi;
+                flag = 1;
+                i++;
             }
-            if(num*sign<INT_MIN)
+            while(i<s.size() && isdigit(s[i]))
             {
-                return mini;
+                if(num > (INT_MAX - (s[i]-'0'))/10)
+                    return (flag == 1)? INT_MAX : INT_MIN;
+                num = num*10+(s[i]-'0');
+                i++;
             }
-            if(!isdigit(s[i+1]))
-            {
-                return num*sign;
-            }
-            i++;
+            if(!isdigit(s[i]))
+                break;
         }
-        return num*sign;
+        return flag*num;
     }
 };
