@@ -1,24 +1,20 @@
 class Solution {
 public:
     bool canConstruct(string ransomNote, string magazine) {
-        ios_base::sync_with_stdio(false);
-        cin.tie(NULL);
-         map<char,int> mag;
-         int count=0;
-         //count occurance of same elements in magazine 
-         for(auto i:magazine)
-         {
-             mag[i]++;
-         }
-         //subtract
-         for(auto i:ransomNote)
-         {
-             --mag[i];
-             if(mag[i]<0)
-             {
-                 return false;
-             }
-         }
-         return true;
+        if(magazine.size() < ransomNote.size())
+            return false;
+        map<char,int>mpp1,mpp2;
+        for(int i=0;i<magazine.size();i++)
+        {
+            if(i<ransomNote.size())
+                mpp1[ransomNote[i]]++;
+            mpp2[magazine[i]]++;
+        }
+        for(int i=0;i<ransomNote.size();i++)
+        {
+            if(mpp1[ransomNote[i]] > mpp2[ransomNote[i]])
+                return false;
+        }
+        return true;
     }
 };
