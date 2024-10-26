@@ -175,6 +175,7 @@ Solved Leetcode problems.
 | [0001-two-sum](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0383-ransom-note) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2428-equal-row-and-column-pairs](https://github.com/Vedantkulkarni21/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## Divide and Conquer
@@ -190,6 +191,7 @@ Solved Leetcode problems.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0383-ransom-note) |
 ## Math
 |  |
 | ------- |
@@ -205,6 +207,7 @@ Solved Leetcode problems.
 | [0008-string-to-integer-atoi](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0151-reverse-words-in-a-string](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0394-decode-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
