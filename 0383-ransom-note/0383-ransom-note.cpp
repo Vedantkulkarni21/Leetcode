@@ -1,8 +1,6 @@
 class Solution {
 public:
     bool canConstruct(string ransomNote, string magazine) {
-        if(magazine.size() < ransomNote.size())
-            return false;
         map<char,int>mpp1;
         for(int i=0;i<ransomNote.size();i++)
         {
