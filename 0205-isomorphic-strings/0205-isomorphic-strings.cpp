@@ -8,16 +8,12 @@ public:
             {
                 return false;
             }
-            mpp[s[i]] = t[i];
-        }
-        // mpp.clear();
-        for(int i=0;i<t.size();i++)
-        {
             if(mpp1.count(t[i]) && mpp1[t[i]] != s[i])
             {
                 return false;
             }
             mpp1[t[i]] = s[i];
+            mpp[s[i]] = t[i];
         }
         return true;
     }
