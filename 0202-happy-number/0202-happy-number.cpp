@@ -3,18 +3,20 @@ public:
     bool isHappy(int n) {
         map<int,int>mpp;
         mpp[n]++;
+        int num=0;
         while(mpp[n] <= 1)
         {
-            string str = to_string(n);
-            n=0;
-            for(char it:str)
+            while(n!=0)
             {
-                n+=((it-'0') * (it-'0'));
+                int digit = n%10;
+                n = n/10;
+                num+= digit*digit;
             }
-            cout<<n<<endl;
-            if(n==1)
+            if(num == 1)
                 return true;
-            mpp[n]++;
+            mpp[num]++;
+            n=num;
+            num=0;
         }
         return false;
     }
