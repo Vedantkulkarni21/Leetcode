@@ -177,6 +177,7 @@ Solved Leetcode problems.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0290-word-pattern) |
@@ -203,6 +204,7 @@ Solved Leetcode problems.
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0007-reverse-integer) |
+| [0202-happy-number](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0202-happy-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Vedantkulkarni21/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Vedantkulkarni21/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
@@ -240,6 +242,7 @@ Solved Leetcode problems.
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1894-merge-strings-alternately](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vedantkulkarni21/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
