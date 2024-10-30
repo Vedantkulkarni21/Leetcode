@@ -163,6 +163,7 @@ Solved Leetcode problems.
 | [0053-maximum-subarray](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0735-asteroid-collision](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0735-asteroid-collision) |
 | [1046-max-consecutive-ones-iii](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -179,6 +180,7 @@ Solved Leetcode problems.
 | [0169-majority-element](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0383-ransom-note) |
@@ -230,6 +232,7 @@ Solved Leetcode problems.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Dynamic Programming
