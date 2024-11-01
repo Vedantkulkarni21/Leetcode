@@ -226,6 +226,7 @@ Solved Leetcode problems.
 | [0290-word-pattern](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0394-decode-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -243,6 +244,7 @@ Solved Leetcode problems.
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0392-is-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -251,6 +253,7 @@ Solved Leetcode problems.
 | [0151-reverse-words-in-a-string](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vedantkulkarni21/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
