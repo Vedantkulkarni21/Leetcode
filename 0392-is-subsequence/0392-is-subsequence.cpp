@@ -1,22 +1,15 @@
 class Solution {
 public:
     bool isSubsequence(string s, string t) {
-        string str="",st="";
-        int i=0;
-        for(char ch:t)
+        int l=0,r=0;
+        while(l<s.size() && r<t.size())
         {
-            if(s[i]==ch)
+            if(t[r] == s[l])
             {
-                str.push_back(ch);
-                i++;
+                l++;
             }
+            r++;
         }
-        //reverse(str.begin(),str.end());
-        cout<<str;
-        if(str==s)
-        {
-            return true;
-        }
-        return false;
+        return (l == s.size())?true:false;
     }
 };
