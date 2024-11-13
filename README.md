@@ -174,6 +174,7 @@ Solved Leetcode problems.
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Vedantkulkarni21/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vedantkulkarni21/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2428-equal-row-and-column-pairs](https://github.com/Vedantkulkarni21/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Vedantkulkarni21/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -190,6 +191,7 @@ Solved Leetcode problems.
 | [0383-ransom-note](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0383-ransom-note) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2428-equal-row-and-column-pairs](https://github.com/Vedantkulkarni21/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Vedantkulkarni21/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -202,6 +204,7 @@ Solved Leetcode problems.
 | [0049-group-anagrams](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0242-valid-anagram) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Vedantkulkarni21/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -248,6 +251,7 @@ Solved Leetcode problems.
 | [0053-maximum-subarray](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0392-is-subsequence) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Vedantkulkarni21/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -309,6 +313,7 @@ Solved Leetcode problems.
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1046-max-consecutive-ones-iii](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Vedantkulkarni21/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Greedy
 |  |
 | ------- |
