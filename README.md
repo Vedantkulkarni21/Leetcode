@@ -168,6 +168,7 @@ Solved Leetcode problems.
 | [0169-majority-element](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0735-asteroid-collision) |
 | [0966-binary-subarrays-with-sum](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -190,6 +191,7 @@ Solved Leetcode problems.
 | [0242-valid-anagram](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0383-ransom-note) |
+| [0560-subarray-sum-equals-k](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2428-equal-row-and-column-pairs](https://github.com/Vedantkulkarni21/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
@@ -310,6 +312,7 @@ Solved Leetcode problems.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Binary Search
