@@ -1,9 +1,8 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        int l=0,r=0;
+        int l=0,r=0,maxi=0;
         map<char,int>mpp;
-        int maxi = 0;
         while(r<s.size())
         {
             mpp[s[r]]++;
