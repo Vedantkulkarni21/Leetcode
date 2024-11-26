@@ -222,6 +222,7 @@ Solved Leetcode problems.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0007-reverse-integer) |
 | [0202-happy-number](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0202-happy-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -298,6 +299,7 @@ Solved Leetcode problems.
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0002-add-two-numbers) |
 | [0394-decode-string](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0394-decode-string) |
 ## Design
 |  |
@@ -356,4 +358,8 @@ Solved Leetcode problems.
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0187-repeated-dna-sequences) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
