@@ -9,21 +9,14 @@
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
-        ios_base::sync_with_stdio(false);
-        cin.tie(NULL);
-        if(head==0)
-        {
+        ListNode *fast = head, *slow = head;
+        if(head == nullptr)
             return false;
-        }
-        ListNode *fast=head;
-        ListNode *slow=head;
-        
-        while(fast!=0 && fast->next!=0)
+        while(fast->next != nullptr && fast->next->next != nullptr)
         {
-            fast=fast->next->next;
-            slow=slow->next;
-            
-            if(fast==slow)
+            slow = slow->next;
+            fast = fast->next->next;
+            if(slow == fast)
                 return true;
         }
         return false;
