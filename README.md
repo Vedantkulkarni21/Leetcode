@@ -284,6 +284,7 @@ Solved Leetcode problems.
 | [0202-happy-number](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0392-is-subsequence) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vedantkulkarni21/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -367,4 +368,5 @@ Solved Leetcode problems.
 | [0002-add-two-numbers](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 <!---LeetCode Topics End-->
