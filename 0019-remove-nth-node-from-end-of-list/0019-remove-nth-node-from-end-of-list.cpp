@@ -13,21 +13,15 @@ public:
     ListNode* removeNthFromEnd(ListNode* head, int n) {
         ListNode *back = head, *front = head;
         ListNode *temp = head;
-        int count = 0;
-        while(temp)
+
+        while(n--)
         {
-            count++;
-            temp= temp->next;
+            front = front->next;
         }
-        if(n == count)
+        if(front == nullptr)
         {
             head= head->next;
             return head;
-        }
-        n = n+1;
-        while(--n)
-        {
-            front = front->next;
         }
         while(front->next)
         {
