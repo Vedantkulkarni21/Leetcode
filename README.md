@@ -304,6 +304,7 @@ Solved Leetcode problems.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0394-decode-string) |
 ## Design
 |  |
@@ -368,6 +369,7 @@ Solved Leetcode problems.
 | [0002-add-two-numbers](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 <!---LeetCode Topics End-->
