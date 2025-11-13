@@ -1,79 +1,20 @@
 class Solution {
 public:
     int romanToInt(string s) {
-        int count=0;
-        for(int j=0;j<s.size();j++)
+        map<char,int>mpp = {{'I', 1}, {'V', 5}, {'X', 10}, {'L', 50}, {'C', 100}, {'D', 500}, {'M', 1000}};
+        int num = 0;
+        for(int j=0; j<s.size(); j++)
         {
-            switch(s[j])
+            if(mpp[s[j]] < mpp[s[j+1]])
             {
-                case 'I':
-                    if(s[j+1]=='V')
-                    {
-                        count+=4;
-                        j++;
-                    }
-                    else if(s[j+1]=='X')
-                    {
-                        count+=9;
-                        j++;
-                    }
-                    else
-                    {
-                        count+=1;
-                    }
-                    break;
-                    
-                case 'V':
-                        count+=5;
-                        break;
-                    
-                case 'X':
-                    if(s[j+1]=='L')
-                    {
-                        count+=40;
-                        j++;
-                    }
-                    else if(s[j+1]=='C')
-                    {
-                        count+=90;
-                        j++;
-                    }
-                    else
-                    {
-                        count+=10;
-                    }
-                    break;
-                    
-                case 'L':
-                        count+=50;
-                        break;
-                
-                case 'C':
-                    if(s[j+1]=='D')
-                    {
-                        count+=400;
-                        j++;
-                    }
-                    else if(s[j+1]=='M')
-                    {
-                        count+=900;
-                        j++;
-                    }
-                    else
-                    {
-                        count+=100;
-                    }
-                    break;
-                
-                case 'D':
-                    count+=500;
-                    break;
-                
-                case 'M':
-                    count+=1000;
-                    break;
+                num+=mpp[s[j+1]] - mpp[s[j]];
+                j++;
+            }
+            else
+            {
+                num+=mpp[s[j]];
             }
         }
-        return count;
+        return num;
     }
 };
