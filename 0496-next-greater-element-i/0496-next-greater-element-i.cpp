@@ -1,31 +1,30 @@
 class Solution {
 public:
     vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
-        vector<int>ans;
-        // int flag=0;
-        for(int it=0; it<nums1.size() ;it++)
+        map<int, int>mpp;
+        for(int i = 0; i<nums2.size(); i++)
         {
-            int i=0;
-            int temp=0;
-            while(nums1[it]!=nums2[i])
+            int flag = 0;
+            for(int j = i+1; j<nums2.size(); j++)
             {
-                i++;
-                temp=i;
-            }
-            for(;i<nums2.size();i++)
-            {
-                if(nums2[i] > nums1[it])
+                if(nums2[i] < nums2[j])
                 {
-                    ans.push_back(nums2[i]);
+                    mpp[nums2[i]] = nums2[j];
+                    flag = 1;
                     break;
                 }
-                if(i == nums2.size()-1)
-                {
-                    ans.push_back(-1);
-                }
             }
-
+            if(flag == 0)
+                mpp[nums2[i]] = -1;
         }
+
+        vector<int>ans;
+        for(int i:nums1)
+        {
+            //cout<<i<<endl;
+            ans.push_back(mpp[i]);
+        }
+
         return ans;
     }
 };
