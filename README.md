@@ -170,6 +170,7 @@ Solved Leetcode problems.
 | [0209-minimum-size-subarray-sum](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0496-next-greater-element-i](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0735-asteroid-collision) |
 | [0966-binary-subarrays-with-sum](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -198,6 +199,7 @@ Solved Leetcode problems.
 | [0290-word-pattern](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -307,6 +309,7 @@ Solved Leetcode problems.
 | [0020-valid-parentheses](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0394-decode-string) |
+| [0496-next-greater-element-i](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/Vedantkulkarni21/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Recursion
@@ -383,4 +386,8 @@ Solved Leetcode problems.
 | [0234-palindrome-linked-list](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
