@@ -155,8 +155,8 @@ Solved Leetcode problems.
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0015-3sum) |
@@ -183,8 +183,8 @@ Solved Leetcode problems.
 | [2428-equal-row-and-column-pairs](https://github.com/Vedantkulkarni21/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Vedantkulkarni21/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0013-roman-to-integer) |
@@ -209,13 +209,13 @@ Solved Leetcode problems.
 | [2428-equal-row-and-column-pairs](https://github.com/Vedantkulkarni21/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Vedantkulkarni21/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0169-majority-element) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0169-majority-element) |
@@ -223,13 +223,13 @@ Solved Leetcode problems.
 | [0645-set-mismatch](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0645-set-mismatch) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Vedantkulkarni21/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0383-ransom-note) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0013-roman-to-integer) |
@@ -240,8 +240,8 @@ Solved Leetcode problems.
 | [2238-a-number-after-a-double-reversal](https://github.com/Vedantkulkarni21/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2491-smallest-even-multiple](https://github.com/Vedantkulkarni21/Leetcode/tree/master/2491-smallest-even-multiple) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0013-roman-to-integer) |
@@ -263,8 +263,8 @@ Solved Leetcode problems.
 | [1894-merge-strings-alternately](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2470-removing-stars-from-a-string](https://github.com/Vedantkulkarni21/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -275,16 +275,16 @@ Solved Leetcode problems.
 | [1370-count-number-of-nice-subarrays](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0392-is-subsequence) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Vedantkulkarni21/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -300,15 +300,15 @@ Solved Leetcode problems.
 | [1894-merge-strings-alternately](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vedantkulkarni21/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0735-asteroid-collision](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0735-asteroid-collision) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vedantkulkarni21/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2428-equal-row-and-column-pairs](https://github.com/Vedantkulkarni21/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/Vedantkulkarni21/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0394-decode-string) |
@@ -316,36 +316,36 @@ Solved Leetcode problems.
 | [0735-asteroid-collision](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/Vedantkulkarni21/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0394-decode-string) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0969-number-of-recent-calls](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0969-number-of-recent-calls) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0969-number-of-recent-calls](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0969-number-of-recent-calls](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0969-number-of-recent-calls) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2428-equal-row-and-column-pairs](https://github.com/Vedantkulkarni21/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Vedantkulkarni21/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/Vedantkulkarni21/Leetcode/tree/master/2491-smallest-even-multiple) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -353,36 +353,36 @@ Solved Leetcode problems.
 | [1046-max-consecutive-ones-iii](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Vedantkulkarni21/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0011-container-with-most-water) |
 ## Union Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0645-set-mismatch](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0645-set-mismatch) |
 ## Rolling Hash
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0187-repeated-dna-sequences) |
 ## Hash Function
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0187-repeated-dna-sequences) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -391,7 +391,7 @@ Solved Leetcode problems.
 | [0328-odd-even-linked-list](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
