@@ -162,6 +162,7 @@ Solved Leetcode problems.
 | [0015-3sum](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/Vedantkulkarni21/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0118-pascals-triangle](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -218,6 +219,7 @@ Solved Leetcode problems.
 | ------- | ------- |
 | [0015-3sum](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Vedantkulkarni21/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0645-set-mismatch) |
@@ -288,6 +290,7 @@ Solved Leetcode problems.
 | [0011-container-with-most-water](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/Vedantkulkarni21/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0151-reverse-words-in-a-string) |
