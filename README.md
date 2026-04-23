@@ -160,6 +160,7 @@ Solved Leetcode problems.
 | [0001-two-sum](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0015-3sum) |
+| [0048-rotate-image](https://github.com/Vedantkulkarni21/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Vedantkulkarni21/Leetcode/tree/main/0075-sort-colors/) | Medium |
@@ -235,6 +236,7 @@ Solved Leetcode problems.
 | [0002-add-two-numbers](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Vedantkulkarni21/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0202-happy-number](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0202-happy-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -340,6 +342,7 @@ Solved Leetcode problems.
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Vedantkulkarni21/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [2428-equal-row-and-column-pairs](https://github.com/Vedantkulkarni21/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## Number Theory
 | Problem Name | Difficulty |
