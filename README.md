@@ -161,6 +161,7 @@ Solved Leetcode problems.
 | [0011-container-with-most-water](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Vedantkulkarni21/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Vedantkulkarni21/Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0027-remove-element](https://github.com/Vedantkulkarni21/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0048-rotate-image](https://github.com/Vedantkulkarni21/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0049-group-anagrams) |
@@ -221,6 +222,7 @@ Solved Leetcode problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Vedantkulkarni21/Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0049-group-anagrams](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Vedantkulkarni21/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0169-majority-element) |
@@ -294,6 +296,7 @@ Solved Leetcode problems.
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Vedantkulkarni21/Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Vedantkulkarni21/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0075-sort-colors](https://github.com/Vedantkulkarni21/Leetcode/tree/main/0075-sort-colors/) | Medium |
