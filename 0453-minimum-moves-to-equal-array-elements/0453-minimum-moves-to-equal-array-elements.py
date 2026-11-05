@@ -1,3 +1,8 @@
 class Solution:
-    def minMoves(self, nums: List[int]) -> int:
-        return sum(nums) - len(nums) * min(nums)
+    def minMoves(self, nums: list[int]) -> int:
+        nums.sort()
+        ans = 0
+        for i in range(len(nums)-1, 0, -1):
+            ans+=(nums[i]-nums[0])
+
+        return ans
