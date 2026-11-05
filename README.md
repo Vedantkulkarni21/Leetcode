@@ -184,6 +184,7 @@ Solved Leetcode problems.
 | [0966-binary-subarrays-with-sum](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Vedantkulkarni21/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Vedantkulkarni21/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vedantkulkarni21/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -230,6 +231,7 @@ Solved Leetcode problems.
 | [0169-majority-element](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0645-set-mismatch) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Vedantkulkarni21/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2586-longest-square-streak-in-an-array](https://github.com/Vedantkulkarni21/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Counting
 | Problem Name | Difficulty |
@@ -313,6 +315,7 @@ Solved Leetcode problems.
 | [0345-reverse-vowels-of-a-string](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0392-is-subsequence) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Vedantkulkarni21/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1894-merge-strings-alternately](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vedantkulkarni21/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -375,6 +378,7 @@ Solved Leetcode problems.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Vedantkulkarni21/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2586-longest-square-streak-in-an-array](https://github.com/Vedantkulkarni21/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Greedy
 | Problem Name | Difficulty |
