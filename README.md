@@ -164,6 +164,7 @@ Solved Leetcode problems.
 | [0016-3sum-closest](https://github.com/Vedantkulkarni21/Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vedantkulkarni21/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Vedantkulkarni21/Leetcode/tree/main/0027-remove-element/) | Easy |
+| [0031-next-permutation](https://github.com/Vedantkulkarni21/Leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0048-rotate-image](https://github.com/Vedantkulkarni21/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0053-maximum-subarray) |
@@ -305,6 +306,7 @@ Solved Leetcode problems.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vedantkulkarni21/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Vedantkulkarni21/Leetcode/tree/main/0027-remove-element/) | Easy |
+| [0031-next-permutation](https://github.com/Vedantkulkarni21/Leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/Vedantkulkarni21/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Vedantkulkarni21/Leetcode/tree/master/0141-linked-list-cycle) |
