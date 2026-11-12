@@ -16,6 +16,8 @@
 #         count = len(s) - c_occ
 #         n = len(s)
 #         return ((n*(n+1)) // 2) - count
+
+
 class Solution:
     def countValidSubstrings(self, s: str) -> int:
 
