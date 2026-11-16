@@ -277,6 +277,7 @@ Solved Leetcode problems.
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1894-merge-strings-alternately](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2470-removing-stars-from-a-string](https://github.com/Vedantkulkarni21/Leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [4102-count-valid-substrings-i](https://github.com/Vedantkulkarni21/Leetcode/tree/main/4102-count-valid-substrings-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -421,4 +422,8 @@ Solved Leetcode problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Vedantkulkarni21/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [4102-count-valid-substrings-i](https://github.com/Vedantkulkarni21/Leetcode/tree/main/4102-count-valid-substrings-i/) | Medium |
 <!---LeetCode Topics End-->
