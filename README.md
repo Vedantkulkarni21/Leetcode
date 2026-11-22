@@ -276,6 +276,7 @@ Solved Leetcode problems.
 | [1146-greatest-common-divisor-of-strings](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1894-merge-strings-alternately](https://github.com/Vedantkulkarni21/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Vedantkulkarni21/Leetcode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2470-removing-stars-from-a-string](https://github.com/Vedantkulkarni21/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [4102-count-valid-substrings-i](https://github.com/Vedantkulkarni21/Leetcode/tree/main/4102-count-valid-substrings-i/) | Medium |
 ## Sliding Window
